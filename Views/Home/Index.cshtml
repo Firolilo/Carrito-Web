@@ -2,33 +2,65 @@
     ViewData["Title"] = "Página Principal";
 }
 
-<h1>Bienvenido a la Tienda en Línea</h1>
+<div class="container mt-5">
+    <h1 class="text-center">Bienvenido a la Tienda en Línea</h1>
 
-@if (User.Identity.IsAuthenticated)
-{
-    <p>Bienvenido, @User.Identity.Name!</p>
-
-    <h3>Opciones para Usuario</h3>
-    <ul>
-        <li><a asp-controller="Producto" asp-action="Index">Ver Productos</a></li>
-        <li><a asp-controller="Carrito" asp-action="Ver">Ver Carrito</a></li>
-        <li><a asp-controller="Orden" asp-action="Historial">Historial de Compras</a></li>
-    </ul>
-
-    @if (User.IsInRole("Admin"))
+    @if (User.Identity.IsAuthenticated)
     {
-        <h3>Opciones de Administración</h3>
-        <ul>
-            <li><a asp-controller="Producto" asp-action="Crear">Agregar Producto</a></li>
-            <li><a asp-controller="Producto" asp-action="Index">Administrar Productos</a></li>
-        </ul>
-    }
+        <p class="text-center fs-4">Bienvenido, <strong>@User.Identity.Name!</strong></p>
 
-    <form asp-area="Identity" asp-page="/Account/Logout" method="post" class="mt-3">
-        <button type="submit" class="btn btn-danger">Cerrar sesión</button>
-    </form>
-}
-else
-{
-    <p>Por favor, <a asp-area="Identity" asp-page="/Account/Login">inicia sesión</a> o <a asp-area="Identity" asp-page="/Account/Register">regístrate</a> para acceder a las funcionalidades.</p>
-}
+        <!-- Opciones para Usuario -->
+        <div class="card my-4 shadow">
+            <div class="card-header bg-primary text-white">
+                <h3>¿Algo llama tu atención?</h3>
+            </div>
+            <div class="card-body">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        <a asp-controller="Producto" asp-action="Index" class="text-decoration-none">Ver Productos</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a asp-controller="Carrito" asp-action="Ver" class="text-decoration-none">Ver Carrito</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a asp-controller="Orden" asp-action="Historial" class="text-decoration-none">Historial de Compras</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Opciones de Administración para el Administrador -->
+        @if (User.IsInRole("Admin"))
+        {
+            <div class="card my-4 shadow">
+                <div class="card-header bg-secondary text-black">
+                    <h3>Admin: Productos</h3>
+                </div>
+                <div class="card-body">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">
+                            <a asp-controller="Producto" asp-action="Crear" class="text-decoration-none">Agregar Producto</a>
+                        </li>
+                        <li class="list-group-item">
+                            <a asp-controller="Producto" asp-action="Index" class="text-decoration-none">Administrar Productos</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        }
+
+        <!-- Botón de Cerrar Sesión -->
+        <div class="text-center mt-4">
+            <form asp-area="Identity" asp-page="/Account/Logout" method="post">
+                <button type="submit" class="btn btn-danger">Cerrar sesión</button>
+            </form>
+        </div>
+    }
+    else
+    {
+        <p class="text-center fs-5 mt-4">
+            Por favor, <a asp-area="Identity" asp-page="/Account/Login" class="text-decoration-none">inicia sesión</a> o
+            <a asp-area="Identity" asp-page="/Account/Register" class="text-decoration-none">regístrate</a> para acceder a las funcionalidades.
+        </p>
+    }
+</div>

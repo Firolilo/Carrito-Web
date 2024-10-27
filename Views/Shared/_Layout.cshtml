@@ -33,13 +33,13 @@
                     @if (User.IsInRole("Admin"))
                     {
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarAdminDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarAdminDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Administración
                             </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarAdminDropdown">
-                                <a class="dropdown-item" asp-controller="Producto" asp-action="Crear">Agregar Producto</a>
-                                <a class="dropdown-item" asp-controller="Producto" asp-action="Index">Administrar Productos</a>
-                            </div>
+                            <ul class="dropdown-menu" aria-labelledby="navbarAdminDropdown">
+                                <li><a class="dropdown-item" asp-controller="Producto" asp-action="Crear">Agregar Producto</a></li>
+                                <li><a class="dropdown-item" asp-controller="Producto" asp-action="Index">Administrar Productos</a></li>
+                            </ul>
                         </li>
                     }
                 }

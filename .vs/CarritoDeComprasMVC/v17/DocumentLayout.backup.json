@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\orden\\historial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\orden\\historial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\orden\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\orden\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\producto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\producto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\producto\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,12 +27,24 @@
       "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\producto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\producto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\producto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\orden\\historial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\orden\\historial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\orden\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\orden\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\carrito\\ver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\carrito\\ver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\carrito\\confirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\carrito\\confirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,24 +59,12 @@
       "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\views\\carrito\\confirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|solutionrelative:views\\carrito\\confirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7AB5FEE-209D-4E58-A3B5-D9284DCE86BE}|CarritoDeComprasMVC.csproj|d:\\usuario\\desktop\\proyectardos\\proyecto carrito\\carritodecomprasmvc\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 294,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -111,38 +111,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAUwGkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:25:54.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Ver.cshtml",
               "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Carrito\\Ver.cshtml",
               "RelativeDocumentMoniker": "Views\\Carrito\\Ver.cshtml",
               "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Carrito\\Ver.cshtml",
               "RelativeToolTip": "Views\\Carrito\\Ver.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-27T16:39:55.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Producto\\Editar.cshtml",
               "RelativeDocumentMoniker": "Views\\Producto\\Editar.cshtml",
               "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Producto\\Editar.cshtml",
               "RelativeToolTip": "Views\\Producto\\Editar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-27T16:37:21.191Z",
               "EditorCaption": ""
@@ -155,7 +142,7 @@
               "RelativeDocumentMoniker": "Views\\Producto\\Crear.cshtml",
               "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Producto\\Crear.cshtml",
               "RelativeToolTip": "Views\\Producto\\Crear.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-27T16:37:04.215Z",
               "EditorCaption": ""
@@ -168,40 +155,105 @@
               "RelativeDocumentMoniker": "Views\\Producto\\Detalles.cshtml",
               "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Producto\\Detalles.cshtml",
               "RelativeToolTip": "Views\\Producto\\Detalles.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-27T16:36:41.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAmwEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-27T16:43:15.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T16:09:39.832Z",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T16:56:34.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "OrdenController.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Controllers\\OrdenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdenController.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Controllers\\OrdenController.cs",
+              "RelativeToolTip": "Controllers\\OrdenController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:42:04.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Historial.cshtml",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Orden\\Historial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orden\\Historial.cshtml",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Orden\\Historial.cshtml",
+              "RelativeToolTip": "Views\\Orden\\Historial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T16:42:46.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Detalles.cshtml",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Orden\\Detalles.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orden\\Detalles.cshtml",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Orden\\Detalles.cshtml",
+              "RelativeToolTip": "Views\\Orden\\Detalles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T16:43:04.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Confirmacion.cshtml",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Carrito\\Confirmacion.cshtml",
+              "RelativeDocumentMoniker": "Views\\Carrito\\Confirmacion.cshtml",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Carrito\\Confirmacion.cshtml",
+              "RelativeToolTip": "Views\\Carrito\\Confirmacion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T16:40:14.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producto\\Index.cshtml",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Producto\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Producto\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T16:35:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -209,77 +261,35 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAJwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T16:51:04.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T16:56:34.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrdenController.cs",
-              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Controllers\\OrdenController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrdenController.cs",
-              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Controllers\\OrdenController.cs",
-              "RelativeToolTip": "Controllers\\OrdenController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T16:42:04.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Historial.cshtml",
-              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Orden\\Historial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Orden\\Historial.cshtml",
-              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Orden\\Historial.cshtml",
-              "RelativeToolTip": "Views\\Orden\\Historial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T16:42:46.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Detalles.cshtml",
-              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Orden\\Detalles.cshtml",
-              "RelativeDocumentMoniker": "Views\\Orden\\Detalles.cshtml",
-              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Orden\\Detalles.cshtml",
-              "RelativeToolTip": "Views\\Orden\\Detalles.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T16:43:04.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Confirmacion.cshtml",
-              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Carrito\\Confirmacion.cshtml",
-              "RelativeDocumentMoniker": "Views\\Carrito\\Confirmacion.cshtml",
-              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Carrito\\Confirmacion.cshtml",
-              "RelativeToolTip": "Views\\Carrito\\Confirmacion.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T16:40:14.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T16:51:04.655Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:09:39.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwGkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:25:54.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -287,12 +297,11 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T16:51:05.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T16:51:05.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -300,21 +309,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T17:25:31.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Producto\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producto\\Index.cshtml",
-              "ToolTip": "D:\\Usuario\\Desktop\\Proyectardos\\Proyecto Carrito\\CarritoDeComprasMVC\\Views\\Producto\\Index.cshtml",
-              "RelativeToolTip": "Views\\Producto\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T16:35:38.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T17:25:31.16Z"
             },
             {
               "$type": "Document",
@@ -326,8 +321,7 @@
               "RelativeToolTip": "Controllers\\CarritoController.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAmwF4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T16:38:33.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T16:38:33.195Z"
             },
             {
               "$type": "Document",
@@ -339,8 +333,7 @@
               "RelativeToolTip": "Controllers\\ProductoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T16:28:18.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T16:28:18.272Z"
             },
             {
               "$type": "Document",
@@ -352,8 +345,7 @@
               "RelativeToolTip": "Models\\Entity\\OrdenItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T16:25:34.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T16:25:34.32Z"
             },
             {
               "$type": "Document",
@@ -365,8 +357,7 @@
               "RelativeToolTip": "Models\\Entity\\Orden.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T16:25:19.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T16:25:19.973Z"
             },
             {
               "$type": "Document",
@@ -378,8 +369,7 @@
               "RelativeToolTip": "Models\\Entity\\CarritoItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T16:24:59.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T16:24:59.372Z"
             },
             {
               "$type": "Document",
@@ -391,8 +381,7 @@
               "RelativeToolTip": "Models\\Entity\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T16:24:45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T16:24:45Z"
             },
             {
               "$type": "Document",
@@ -404,8 +393,7 @@
               "RelativeToolTip": "Data\\MyDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T16:08:50.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T16:08:50.334Z"
             }
           ]
         }

@@ -1,26 +1,37 @@
 ﻿@model IEnumerable<CarritoDeComprasMVC.Models.Entity.Orden>
 
-<h2>Historial de Compras</h2>
-<p>ID del Usuario: @ViewBag.UsuarioId</p> <!-- Mostrar el ID del usuario -->
-@if (!Model.Any())
-{
-    <p>No tienes compras registradas.</p>
-}
-else
-{
-    <table>
-        <tr>
-            <th>Fecha</th>
-            <th>Total</th>
-            <th>Detalles</th>
-        </tr>
-        @foreach (var orden in Model)
-        {
-            <tr>
-                <td>@orden.FechaCreacion.ToString("g")</td>
-                <td>$@orden.Total</td>
-                <td><a asp-action="Detalles" asp-route-id="@orden.Id">Ver detalles</a></td>
-            </tr>
-        }
-    </table>
-}
+<div class="container mt-5">
+    <h2 class="text-center">Historial de Compras</h2>
+    <p class="text-muted text-center">ID del Usuario: @ViewBag.UsuarioId</p>
+
+    @if (!Model.Any())
+    {
+        <p class="text-center fs-5 text-secondary">No tienes compras registradas.</p>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table table-striped table-hover align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col">Fecha</th>
+                        <th scope="col" class="text-center">Total</th>
+                        <th scope="col" class="text-center">Detalles</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var orden in Model)
+                    {
+                        <tr>
+                            <td>@orden.FechaCreacion.ToString("g")</td>
+                            <td class="text-center">$@orden.Total.ToString("F2")</td>
+                            <td class="text-center">
+                                <a asp-action="Detalles" asp-route-id="@orden.Id" class="btn btn-info btn-sm text-white">Ver detalles</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
