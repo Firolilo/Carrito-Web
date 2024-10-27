@@ -1,0 +1,22 @@
+﻿@model CarritoDeComprasMVC.Models.Entity.Orden
+
+<h2>Detalles de la Orden</h2>
+<p>Fecha de la compra: @Model.FechaCreacion.ToString("g")</p>
+<table>
+    <tr>
+        <th>Producto</th>
+        <th>Cantidad</th>
+        <th>Precio Unitario</th>
+        <th>Total</th>
+    </tr>
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>@item.Producto.Nombre</td>
+            <td>@item.Cantidad</td>
+            <td>$@item.PrecioUnitario</td>
+            <td>$@item.PrecioTotal</td>
+        </tr>
+    }
+</table>
+<h3>Total de la Orden: $@Model.Total</h3>

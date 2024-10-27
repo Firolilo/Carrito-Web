@@ -1,0 +1,15 @@
+﻿@model IEnumerable<CarritoDeComprasMVC.Models.Entity.Producto>
+
+<h2>Productos Disponibles</h2>
+<div>
+    @foreach (var producto in Model)
+    {
+        <div>
+            <img src="@producto.ImagenUrl" alt="@producto.Nombre" width="100">
+            <h3>@producto.Nombre</h3>
+            <p>Precio: $@producto.Precio</p>
+            <p>Stock: @producto.Stock</p>
+            <a asp-action="Detalles" asp-route-id="@producto.Id">Ver detalles</a>
+        </div>
+    }
+</div>

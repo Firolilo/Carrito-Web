@@ -1,0 +1,35 @@
+﻿@model IEnumerable<CarritoDeComprasMVC.Models.Entity.CarritoItem>
+<h2>Carrito de Compras</h2>
+<table>
+    <tr>
+        <th>Producto</th>
+        <th>Precio Unitario</th>
+        <th>Cantidad</th>
+        <th>Total</th>
+        <th>Acciones</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Producto.Nombre</td>
+            <td>@item.Producto.Precio</td>
+            <td>@item.Cantidad</td>
+            <td>@item.PrecioTotal</td>
+            <td>
+                <form asp-action="Actualizar" method="post">
+                    <input type="hidden" name="carritoItemId" value="@item.Id" />
+                    <input type="number" name="nuevaCantidad" min="1" max="@item.Producto.Stock" value="@item.Cantidad" />
+                    <button type="submit">Actualizar</button>
+                </form>
+                <form asp-action="Eliminar" method="post">
+                    <input type="hidden" name="carritoItemId" value="@item.Id" />
+                    <button type="submit">Eliminar</button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>
+<h3>Total: @ViewBag.Total</h3>
+<form asp-action="Comprar">
+    <button type="submit">Proceder a Compra</button>
+</form>

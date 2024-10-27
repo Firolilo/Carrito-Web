@@ -1,0 +1,26 @@
+﻿@model IEnumerable<CarritoDeComprasMVC.Models.Entity.Orden>
+
+<h2>Historial de Compras</h2>
+<p>ID del Usuario: @ViewBag.UsuarioId</p> <!-- Mostrar el ID del usuario -->
+@if (!Model.Any())
+{
+    <p>No tienes compras registradas.</p>
+}
+else
+{
+    <table>
+        <tr>
+            <th>Fecha</th>
+            <th>Total</th>
+            <th>Detalles</th>
+        </tr>
+        @foreach (var orden in Model)
+        {
+            <tr>
+                <td>@orden.FechaCreacion.ToString("g")</td>
+                <td>$@orden.Total</td>
+                <td><a asp-action="Detalles" asp-route-id="@orden.Id">Ver detalles</a></td>
+            </tr>
+        }
+    </table>
+}
